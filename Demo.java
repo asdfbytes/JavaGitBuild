@@ -1,5 +1,5 @@
 public class Demo {
     public static void main(String[] args) {
-        System.out.println("Hi Aquib asdfbytes 119!!");
+        System.out.println("Hi asdfbytes 119!!");
     }
 }
